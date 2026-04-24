@@ -1,13 +1,11 @@
 # Hi 👋, I'm Ayesha Nasir 
 ### Junior MERN Stack Developer from Pakistan 🇵🇰
 
-<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-5691614-4759358.png">
-
 - 🔭 I’m currently working on **Production-level Projects** to sharpen my skills.
 - 🌱 I’m currently deep-diving into **Next.js, Expo, and CLI tools**.
 - 💻 I love building scalable web applications using the **MERN Stack**.
 - 🚀 My goal is to create impactful digital solutions that solve real-world problems.
-- ⚡ Fun fact: I believe a good cup of tea can solve any coding bug!
+- ⚡ Fun fact: I believe i can do all that's not possible with A Maggie Plate!hehe
 
 ---
 
