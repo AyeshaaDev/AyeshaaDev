@@ -5,7 +5,7 @@
 - 🌱 I’m currently deep-diving into **Next.js, Expo, and CLI tools**.
 - 💻 I love building scalable web applications using the **MERN Stack**.
 - 🚀 My goal is to create impactful digital solutions that solve real-world problems.
-- ⚡ Fun fact: I believe i can do all that's not possible in CodeBut  with A Plate of Maggie!hehe
+- ⚡ Fun fact: I believe i can do all that's not possible in Code_But with A Plate of Maggie!hehe
 
 ---
 
